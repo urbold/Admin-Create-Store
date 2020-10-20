@@ -1,0 +1,45 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@datasets/country-list": "1.0.7",
+    "@fortawesome/fontawesome-free": "5.8.2",
+    "@material-ui/core": "4.0.1",
+    "@material-ui/icons": "4.0.1",
+    "@material-ui/pickers": "3.0.0",
+    "@material-ui/styles": "4.0.1",
+    "clsx": "1.0.4",
+    "currenci": "0.0.1",
+    "datasets-us-states-abbr": "1.0.0",
+    "google-tts-languages": "1.0.0",
+    "i18n-locales": "0.0.2",
+    "lodash": "4.17.11",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-number-format": "4.0.8",
+    "react-scripts": "3.0.1",
+    "react-text-mask": "5.4.3",
+    "react-timezone-picker": "1.0.8",
+    "react-transition-group": "4.0.1",
+    "text-mask-addons": "3.8.0",
+    "tz-ids": "1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
